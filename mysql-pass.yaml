@@ -1,0 +1,8 @@
+apiVersion: v1
+data:
+  DB_Password: am9obmFobg==
+kind: Secret
+metadata:
+  creationTimestamp: null
+  name: db-secret
+
